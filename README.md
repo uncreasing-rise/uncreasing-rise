@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang Minh Truong</h1>
+<h1 align="center">Hi 👋, I'm Hoang Truong Minh</h1>
 <h3 align="center">A Student at FPT University from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncreasing-rise&label=Profile%20views&color=0e75b6&style=flat" alt="uncreasing-rise" /> </p>
