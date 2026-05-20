@@ -1,86 +1,151 @@
-<h1 align="center">Hi, I'm Hoang Truong Minh 👋</h1>
+<div align="center">
 
-<p align="center">
-  Backend Engineer • Java/Spring Ecosystem • System Design Enthusiast
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:3b82f6&text=Hoang%20Truong%20Minh&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Ecosystem&descAlignY=58"/>
 
-<p align="center">
-  Building scalable backend systems, clean APIs, and reliable architectures.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Authentication+%26+Security+Engineering;System+Design+%26+Distributed+Architecture"/>
 
-<p align="center">
-  <a href="mailto:hoangtm2511.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hoangtm2511">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
----
+<a href="mailto:hoangtm2511.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🚀 About Me
+<a href="https://linkedin.com/in/hoangtm2511">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 💻 Backend-focused developer with strong interest in scalable systems
-- 🌱 Currently deepening expertise in **Java, Spring Boot, Microservices, and Distributed Systems**
-- 🏗 Passionate about **System Design, Clean Architecture, and API-first development**
-- ⚡ Interested in building **high-performance, production-ready backend services**
-- 📍 Based in Vietnam
+</div>
 
 ---
 
-## 🧠 Current Focus
+# ⚡ About Me
 
-```txt
-Java & Spring Boot
-Microservices Architecture
-System Design
-Distributed Systems
-Docker & DevOps Basics
-API Security & Authentication
-Database Design & Optimization
+```yaml
+name: Hoang Truong Minh
+role: Backend Engineer
+location: Vietnam
+
+focus:
+  - Scalable Backend Systems
+  - Microservices Architecture
+  - Authentication & Authorization
+  - Event-Driven Systems
+  - Clean Architecture
+
+currently_building:
+  - LMS Platform
+  - Multi-Tenant SaaS Backend
 ```
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Engineering Focus
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+```mermaid
+graph LR
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+A[Client Apps]
+--> B[API Gateway]
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+B --> C[Auth Service<br/>Keycloak]
+B --> D[LMS Core Service]
+B --> E[Notification Service]
 
----
+D --> F[(PostgreSQL)]
+D --> G[Redis Cache]
+D --> H[Kafka Events]
 
-## 📈 GitHub Analytics
+```
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=uncreasing-rise&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncreasing-rise&layout=compact&theme=transparent&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🛠 Tech Stack
 
-- 📧 **Email:** hoangtm2511.work@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/hoangtm2511
+<div align="center">
+
+### Backend Core
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts"/>
+
+### Data & Messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka"/>
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,aws,github,git"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning, always building.</i>
-</p>
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 LMS Platform
+
+Multi-tenant Learning Management System
+
+**Tech:**
+`Spring Boot` `PostgreSQL`
+`Keycloak` `Docker`
+
+Features:
+- Authentication & RBAC
+- Attendance & Exams
+- Assignment Management
+- Multi-role Architecture
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Auth & Identity
+
+Modern authentication platform
+
+**Tech:**
+`Keycloakify`
+`OIDC`
+`JWT`
+
+Features:
+- Custom Login Theme
+- RBAC
+- SSO Ready
+- Secure Token Flow
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uncreasing-rise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncreasing-rise&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=uncreasing-rise&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building systems that scale, not just apps.
+
+</div>
