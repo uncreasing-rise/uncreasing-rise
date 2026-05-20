@@ -1,72 +1,86 @@
-<h1 align="center">Hi 👋, I'm Hoang Truong Minh</h1>
-<h3 align="center">🎓 Student at FPT University | 🌏 Based in Vietnam</h3>
+<h1 align="center">Hi, I'm Hoang Truong Minh 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uncreasing-rise&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  Backend Engineer • Java/Spring Ecosystem • System Design Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=uncreasing-rise&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" alt="Trophies" />
+  Building scalable backend systems, clean APIs, and reliable architectures.
+</p>
+
+<p align="center">
+  <a href="mailto:hoangtm2511.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hoangtm2511">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🌱 Currently Learning
-Java Spring Boot & Microservices Architecture
+## 🚀 About Me
 
-Node.js & TypeScript for Scalable Backend Systems
-
-System Design & Clean Code Principles
-
-Full-stack Backend Development with a focus on API-first design, database modeling, and service orchestration
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-</p>
+- 💻 Backend-focused developer with strong interest in scalable systems
+- 🌱 Currently deepening expertise in **Java, Spring Boot, Microservices, and Distributed Systems**
+- 🏗 Passionate about **System Design, Clean Architecture, and API-first development**
+- ⚡ Interested in building **high-performance, production-ready backend services**
+- 📍 Based in Vietnam
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Current Focus
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uncreasing-rise&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
+```txt
+Java & Spring Boot
+Microservices Architecture
+System Design
+Distributed Systems
+Docker & DevOps Basics
+API Security & Authentication
+Database Design & Optimization
+```
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uncreasing-rise&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uncreasing-rise&theme=radical" alt="GitHub Streak" />
+## 🛠 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=uncreasing-rise&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncreasing-rise&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="mailto:hoangtm2511.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hoangtm2511" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+- 📧 **Email:** hoangtm2511.work@gmail.com  
+- 💼 **LinkedIn:** linkedin.com/in/hoangtm2511
 
 ---
 
-⭐️ *Thank you for visiting my GitHub profile!*
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
