@@ -1,151 +1,76 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Hoang Truong Minh</h1>
+<h3 align="center">💻 Backend Engineer | ☁️ Java & Spring Ecosystem | 🌏 Based in Vietnam</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:3b82f6&text=Hoang%20Truong%20Minh&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Ecosystem&descAlignY=58"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uncreasing-rise&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Authentication+%26+Security+Engineering;System+Design+%26+Distributed+Architecture"/>
-
-<br/>
-
-<a href="mailto:hoangtm2511.work@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/hoangtm2511">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=uncreasing-rise&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-# ⚡ About Me
+### 🌱 Currently Exploring
 
-```yaml
-name: Hoang Truong Minh
-role: Backend Engineer
-location: Vietnam
-
-focus:
-  - Scalable Backend Systems
-  - Microservices Architecture
-  - Authentication & Authorization
-  - Event-Driven Systems
-  - Clean Architecture
-
-currently_building:
-  - LMS Platform
-  - Multi-Tenant SaaS Backend
-```
+- **Java Spring Boot & Scalable Backend Architecture**
+- **Microservices & Event-Driven Systems**
+- **Node.js & TypeScript for Modern Backend Development**
+- **System Design, Clean Code & Software Architecture**
+- **API-first Development, Database Modeling & Service Orchestration**
+- **Authentication & Authorization (JWT, OAuth2, Keycloak)**
 
 ---
 
-# 🧠 Engineering Focus
+### 🛠️ Languages & Tools
 
-<div align="center">
-
-```mermaid
-graph LR
-
-A[Client Apps]
---> B[API Gateway]
-
-B --> C[Auth Service<br/>Keycloak]
-B --> D[LMS Core Service]
-B --> E[Notification Service]
-
-D --> F[(PostgreSQL)]
-D --> G[Redis Cache]
-D --> H[Kafka Events]
-
-```
-
-</div>
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=uncreasing-rise&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
 
-### Backend Core
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uncreasing-rise&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts"/>
-
-### Data & Messaging
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka"/>
-
-### DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,aws,github,git"/>
-
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uncreasing-rise&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+### 🤝 Connect with Me
 
-<table>
-<tr>
-<td width="50%">
+<p align="left">
+  <a href="mailto:hoangtm2511.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-### 🎓 LMS Platform
-
-Multi-tenant Learning Management System
-
-**Tech:**
-`Spring Boot` `PostgreSQL`
-`Keycloak` `Docker`
-
-Features:
-- Authentication & RBAC
-- Attendance & Exams
-- Assignment Management
-- Multi-role Architecture
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Auth & Identity
-
-Modern authentication platform
-
-**Tech:**
-`Keycloakify`
-`OIDC`
-`JWT`
-
-Features:
-- Custom Login Theme
-- RBAC
-- SSO Ready
-- Secure Token Flow
-
-</td>
-</tr>
-</table>
+  <a href="https://linkedin.com/in/hoangtm2511" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uncreasing-rise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncreasing-rise&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=uncreasing-rise&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building systems that scale, not just apps.
-
-</div>
+⭐️ *Building scalable backend systems, one service at a time.*
